@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Research</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Mohamed Seif</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="research.html" class="current">Research</a></div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="service.html">Service</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Research</h1>
+</div>
+<h2>Research Overview</h2>
+<p>My research interests are in the intersection of data privacy, machine learning, and wireless communications.  My research focuses on addressing three main challenges: (1) Study the physical layer security for wireless networks with imperfect channel state information at transmitters, and devising novel secure information transmission schemes under different secrecy constraints, (2) Study a context-aware privacy notion (namely, local information privacy) that relaxes the de facto standard privacy notion, i.e., local differential privacy, and lay down the theoretical foundations of LIP and designing practical context-aware privacy mechanisms in the local setting, and (3) Propose novel transmission schemes for machine learning tasks over wireless networks with provable privacy guarantees.</p>
+<table class="imgtable"><tr><td>
+<img src="system_model_FL.png" alt="Wireless Federated Learning" width="380px" height="130px" />&nbsp;</td>
+<td align="left"><p><br />
+
+<br />
+<b>Wireless Federated Learning with Local Differential Privacy</b> <br />
+In this work, we study the problem of federated learning (FL) over a wireless channel, modeled by a Gaussian multiple access channel (MAC), subject to local differential privacy (LDP) constraints. We show that the superposition nature of the wireless channel provides a dual benefit of bandwidth efficient gradient aggregation, in conjunction with strong LDP guarantees for the users.
+
+
+
+
+</p>
+</td></tr></table>
+<table class="imgtable"><tr><td>
+<img src="context_aware_system.png" alt="Context-Aware Information Privacy" width="380px" height="130px" />&nbsp;</td>
+<td align="left"><p><br />
+<br />
+<b>Context-Aware Local Information Privacy</b> <br />
+In this work, we study Local Information Privacy (LIP). As a context-aware privacy notion, LIP relaxes the gold standard privacy notion of local differential privacy (LDP) by incorporating prior knowledge and therefore achieving better utility. We study the relationships between LIP and some of the  representative privacy notions including LDP, mutual information and maximal leakage. We show that LIP provides strong instance-wise privacy protection compared to other context-aware privacy notions.  Moreover, we present some useful properties of LIP, including  post-processing, linkage, composability,  transferability and robustness to imperfect prior knowledge. Then we study a general utility-privacy tradeoff framework, under which we derive LIP based privacy-preserving mechanisms for both discrete and continuous-valued data. 
+
+
+
+
+</p>
+</td></tr></table>
+<table class="imgtable"><tr><td>
+<img src="genome_system_model.png" alt="Genome Privacy" width="380px" height="130px" />&nbsp;</td>
+<td align="left"><p><br />
+<br />
+<b>Genome Privacy</b> <br />
+In this work, we consider the problem of answering count queries for genomic data subject to privacy constraints. Genome-wide association studies (GWAS) often deal with obtaining aggregate (population-wide) information from biomedical databases (DBs) through interactive queries. Our goal is to design mechanisms for answering count queries of the following form: How many users in the DB have a specific set of genotypes at certain locations (denoted by L) in their genome? At the same time, we do not want to leak any information (perfect privacy) about sensitive genotypes at a pre-specified set S of secret locations. The sensitive genotypes in the set S of locations could be indicative of rare diseases and/or other health traits that one may want to keep private. We assume that the genome sequences are independent across users, and are modeled via an arbitrary probability distribution over by an N-length sequence.</p>
+</td></tr></table>
+<div id="footer">
+<div id="footer-text">
+Page generated 2021-12-29 12:44:33 MST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>
