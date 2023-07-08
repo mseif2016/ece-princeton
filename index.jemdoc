@@ -1,0 +1,77 @@
+# jemdoc: menu{MENU}{index.html}
+= Mohamed Seif
+
+~~~
+{}{img_left}{Seif_photo.jpg}{alt text}{210}{210}
+
+*Mohamed Seif* \n
+Postdoctoral Research Associate \n
+[https://ece.princeton.edu/ Department of Electrical and Computer Engineering] \n
+
+
+Email: [mseif@princeton.edu] \n 
+Profile Links: [https://scholar.google.com/citations?hl=en&user=SgoDfyQAAAAJ&view_op=list_works&sortby=pubdate/ Google Scholar] [https://www.linkedin.com/in/mohamed-seif-9942aa122/ LinkedIn]
+~~~
+
+== Biography and Current Research
+
+I am currently a Postdoctoral Research Associate in the [https://ece.princeton.edu/ Department of Electrical and Computer Engineering], [https://www.princeton.edu/ Princeton University], hosted by [https://ece.princeton.edu/people/andrea-goldsmith/ Andrea Goldsmith] and [https://ece.princeton.edu/people/h-vincent-poor Vincent Poor].\n
+
+I completed my Ph.D. in Electrical and Computer Engineering at the University of Arizona, in 2022 under the supervision of [https://uweb.engr.arizona.edu/~tandonr// Ravi Tandon] and [http://wiser.arizona.edu/mingli/ Ming Li].
+
+#I received my B.Sc. degree in Electrical Engineering from Alexandria University, Egypt. I $received M.Sc. degree in wireless technologies from the Wireless Intelligent Networks #$Center (WINC), Nile University, Egypt. I completed my Ph.D. in Electrical and Computer #Engineering at the University of Arizona, in 2022.
+
+
+#I joined the University of Arizona in 2017, and I am currently a graduate research #assistant in Prof. [http://www2.engr.arizona.edu/~tandonr/ Ravi Tandon]'s lab. I am also #co-advised by Prof. [http://wiser.arizona.edu/mingli/  Ming Li] and Prof. [https://#engineering.virginia.edu/faculty/anil-vullikanti/ Anil Vullikanti].
+#\n
+
+My current research interests are:\n
+
+
+- Privacy Preserving Technologies
+- Wireless Communications
+- Distributed Computing and Sensing
+- Machine Learning Systems
+- Information Theoretic Security
+- Graph Analytics
+
+
+~~~
+#== {{<font color=blue size=+1.0><b>}}/Recent News/{{</b></font>}}
+== Recent News
+- {{<font color=red><b>}}Announcement:{{</b></font>}} I have successfully defended my Ph.D. dissertation, and will be moving to Princeton University.
+- (June 2022): Received the 2022 ICML full participation grant. 
+- (May 2022): New Conference Paper and Journal Paper:
+-- "Differentially Private Community Detection for Stochastic Block Models", has been accepted in ICML 2022. \n
+-- "On the DoF of X-Networks with Synergistic Alternating CSIT: A Step Towards Integrated Communications and Sensing", IEEE Canadian Journal of Electrical and Computer Engineering, accepted with minor revision. 
+- (February 2022): New Journal Paper and pre-print:
+#-- "On the DoF of X-Networks with Synergistic Alternating CSIT: A Step Towards Integrated #Communications and Sensing", submitted to the IEEE Canadian Journal of Electrical and #Computer Engineering. \n
+-- "Answering Count Queries for Genomic Data under Perfect Privacy", arXiv, 2022.
+#- (January 2022): New Pre-print: 
+#-- "Differentially Private Community Detection for Stochastic Block Models", arXiv
+#- (November 2021): New Conference Paper:
+#-- "Differentially Private Federated Learning with Drift Control", submitted to IEEE CISS.
+#- (April 2021): New Conference Papers:
+#-- "Privacy Amplification for Federated Learning via User Sampling and Wireless #Aggregation", IEEE ISIT, accepted.
+#-- "On the Necessity of Aligning Gradients for Wireless Federated Learning", submitted to #IEEE SPAWC.
+#- (February 2021):New Journal Papers:
+#-- "Privacy Amplification for Federated Learning via User Sampling and Wireless Aggregation", submitted to IEEE Journal on Selected Areas in Communications.
+#-- "Context-Aware Local Information Privacy", IEEE Transactions on Information Forensics and Security, accepted with minor revision.
+#- (March 2020): New conference paper:
+#-- [ISIT-WFL-LDP-2020.pdf /Wireless Federated Learning with Local Differential Privacy/], #IEEE International Symposium on Information Theory.
+#- (March 2020): Won the best poster award, Graduate Poster Symposium, ECE Department. 
+#-- Wireless Federated Learning with Local Differential Privacy.
+#- (November 2019): New Journal paper:
+#-- [Secure-RIA-Entropy-2019.pdf /Secure Retrospective Interference Alignment/], Journal #of Entropy
+#- (May 2019): Very fortunate to attend the 2019 North American School of Information Theory (NASIT) at Boston University and visit the MIT campus. 
+#{{<font color=red size=+1.0>}}/(I have really enjoyed the environment there. Thanks to my advisors!)/{{</font>}}
+#- (April 2018): New Conference papers:
+#-- [ISIT-2018-Secrecy-IC-Delayed-CSIT.pdf /On the Secure Degrees of Freedom of the K-user #Interference Channel with Delayed CSIT/], IEEE ISIT 2018
+#-- [ICC-2018-Secure-Multi-hop.pdf  /On the Secure Degrees of Freedom of 2x2x2 Multi-Hop #Network with Untrusted Relays/], IEEE ICC 2018
+#- (January 2018): New pre-print
+#-- [https://arxiv.org/abs/1801.03494 /On the Secure Degrees of Freedom of the K-user #Interference Channel with Delayed CSIT/], arXiv
+~~~
+
+
+
+
